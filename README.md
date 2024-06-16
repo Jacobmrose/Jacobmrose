@@ -1,4 +1,4 @@
-# Welcome to Jacob Rose's GitHub Profile 👋
+# Welcome to my GitHub Profile 👋
 
 Hello there! I'm Jacob, a passionate new developer diving into the world of programming, particularly focusing on HTML, CSS, and JavaScript. Welcome to my GitHub profile! Here, you'll find a mix of my personal projects, contributions to open-source, and some insights into my coding journey.
 
