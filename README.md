@@ -1,6 +1,6 @@
 # Welcome to my GitHub Profile 👋
 
-Hello there! I'm Jacob, a passionate new developer diving into the world of programming, particularly focusing on front end languages and frameworks. Welcome to my GitHub profile! Here, you'll find a mix of my personal projects, contributions to open-source, and some insights into my coding journey.
+Hello there! I'm Jacob, a passionate web developer diving into the world of programming, particularly focusing on front end languages and frameworks. Welcome to my GitHub profile! Here, you'll find a mix of my personal projects, contributions to open-source, and some insights into my coding journey.
 
 ## About Me
 
